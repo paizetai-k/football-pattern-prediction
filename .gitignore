@@ -1,3 +1,8 @@
+# Data (large, pulled from Kaggle - see data/README.md)
+data/raw/
+data/processed/
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
